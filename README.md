@@ -29,3 +29,5 @@ Run the "main" of the class DeaConsoleBrowser.
 ## References
 * Parallel and Asynchronous Programming in Java 8 (https://dzone.com/articles/parallel-and-asynchronous-programming-in-java-8)
 * Introduction to the Java HTTP Client (https://openjdk.java.net/groups/net/httpclient/intro.html)
+* Java 11: Standardized HTTP Client API (https://dzone.com/articles/java-11-standardized-http-client-api)
+* Class HttpClient docs (https://docs.oracle.com/en/java/javase/11/docs/api/java.net.http/java/net/http/HttpClient.html)
